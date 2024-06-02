@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivilegijeKorisnika", "PrivilegijeKorisnika\PrivilegijeKorisnika.csproj", "{2BBF0680-0C22-4FB2-AF0B-1266E68C2D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "DatabaseAccess\DatabaseAccess.csproj", "{F9634B5B-9D91-4E98-B04C-A58A5EFB6C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BBF0680-0C22-4FB2-AF0B-1266E68C2D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBF0680-0C22-4FB2-AF0B-1266E68C2D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBF0680-0C22-4FB2-AF0B-1266E68C2D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBF0680-0C22-4FB2-AF0B-1266E68C2D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9634B5B-9D91-4E98-B04C-A58A5EFB6C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9634B5B-9D91-4E98-B04C-A58A5EFB6C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9634B5B-9D91-4E98-B04C-A58A5EFB6C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9634B5B-9D91-4E98-B04C-A58A5EFB6C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAB25BF-E092-448B-B651-861197E790D9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9634b5b-9d91-4e98-b04c-a58a5efb6c96": {
+      "ProjectGuid": "f9634b5b-9d91-4e98-b04c-a58a5efb6c96",
+      "DisplayName": "DatabaseAccess",
+      "ColorIndex": 0
+    },
+    "2bbf0680-0c22-4fb2-af0b-1266e68c2d00": {
+      "ProjectGuid": "2bbf0680-0c22-4fb2-af0b-1266e68c2d00",
+      "DisplayName": "PrivilegijeKorisnika",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
